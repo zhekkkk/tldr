@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain_community
+langchain-mistralai
+scikit-learn
+python-dotenv
+aiogram
+pypdf
+transformers
+langchain_huggingface
